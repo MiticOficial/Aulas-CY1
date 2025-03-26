@@ -1,0 +1,12 @@
+Cliente: Olá
+Chatbot: Olá, tudo bem?
+Cliente: Tudo bem sim e você?
+Chatbot: Eu estou bem, apesar de ser uma maquina!
+Cliente: O Palmeiras vai ganhar o Paulistão?
+Chatbot: Acho que dessa vez não vai dar não :(
+Cliente: Como é ser um robo?
+Chatbot: É bem parado na verdade, como é ser um humano?
+Cliente: Da fome
+Chatbot: Gostaria de sentir fome também
+
+Olá
